@@ -1,0 +1,29 @@
+{
+  "name": "js-maze",
+  "version": "1.0.0",
+  "description": "A JavaScript maze generator.",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amy Pellegrini <amyvpellegrini@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amypellegrini/js-maze.git"
+  },
+  "keywords": [
+    "maze",
+    "js",
+    "ts"
+  ],
+  "bugs": {
+    "url": "https://github.com/amypellegrini/js-maze/issues"
+  },
+  "homepage": "https://github.com/amypellegrini/js-maze#readme",
+  "devDependencies": {
+    "semantic-release": "^21.1.1",
+    "typescript": "^5.2.2"
+  }
+}
