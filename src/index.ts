@@ -1,1 +1,5 @@
-console.log("Hello World!");
+import Cell from "./cell";
+
+export default {
+  Cell,
+};
