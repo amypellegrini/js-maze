@@ -2,7 +2,7 @@
   "name": "js-maze",
   "version": "1.0.0",
   "description": "A JavaScript maze generator.",
-  "main": "index.js",
+  "main": "dist/index.js",
   "files": [
     "/dist"
   ],
