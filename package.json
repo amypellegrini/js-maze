@@ -3,13 +3,13 @@
   "version": "1.0.0",
   "description": "A JavaScript maze generator.",
   "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "files": [
     "/dist"
   ],
   "scripts": {
     "build": "tsc",
-    "test": "vitest",
-    "prepare": "npm run build"
+    "test": "vitest"
   },
   "release": {
     "branches": [
